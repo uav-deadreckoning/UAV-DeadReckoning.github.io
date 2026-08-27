@@ -22,9 +22,9 @@ Key research themes include:
 ## Team
 
 - **Dr. Jinoh Kim** — Professor of Computer Science, East Texas A&M University (ETAMU)  
-- **Iyanuoluwa “Miracle” Alegbeleye** — Undergraduate Research Assistant, ETAMU  
-- **Prajeena Maharjan** — Graduate Research Assistant, ETAMU  
-- **Shinhwan Kim** — Graduate Research Assistant, ETAMU
+- **Iyanuoluwa “Miracle” Alegbeleye** — Undergraduate Research Assistant, (ETAMU)  
+- **Prajeena Maharjan** — Graduate Research Assistant, (ETAMU)  
+- **Shinhwan Kim** — Graduate Research Assistant, (ETAMU)
 
 ## Repository Purpose
 
