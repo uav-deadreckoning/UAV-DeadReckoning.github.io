@@ -2,7 +2,7 @@
 
 This official repository for the **official GitHub Pages website** for the **UAV Dead Reckoning** research project.
 
-**Live site:** https://uav-deadreackoning.github.io
+**Live site:** https://uav-deadreckoning.github.io
 Unmanned aerial vehicles (UAVs) are an integral part of agricultural systems, disaster response, surveillance, and autonomous navigation.
 UAVs are primarily GPS-based systems that can suffer from loss of signal and adversarial techniques, such as GPS spoofing.
 
